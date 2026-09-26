@@ -38,6 +38,7 @@ This is a list of some wonderful demos & applications built with [Gradio](www.gr
 |   [Pose Estimation for Humans, Vehicles and Animals](https://huggingface.co/spaces/peterbonnesoeur/pose_demo)                         |     Image, Radio, Checkbox      |      Image    |              [![demo status](https://img.shields.io/website-up-down-green-red/https/hf.space/gradioiframe/peterbonnesoeur/pose_demo/+.svg?label=demo%20status)](https://huggingface.co/spaces/peterbonnesoeur/pose_demo)
 |   [Convolutional Hough Matching Networks](https://huggingface.co/spaces/taesiri/ConvolutionalHoughMatchingNetworks)                         |     Image, Slider       |      Image    |              [![demo status](https://img.shields.io/website-up-down-green-red/https/hf.space/gradioiframe/taesiri/ConvolutionalHoughMatchingNetworks/+.svg?label=demo%20status)](https://huggingface.co/spaces/taesiri/ConvolutionalHoughMatchingNetworks)
 | [GT4SD - Diffusers](https://huggingface.co/spaces/GT4SD/diffusers)                          |  Text, Dropdown             |  Image              | [![demo status](https://img.shields.io/website-up-down-green-red/https/hf.space/gradioiframe/GT4SD/diffusers/+.svg?label=demo%20status)](https://huggingface.co/spaces/GT4SD/diffusers)
+| [Adapt-Diffuse](https://huggingface.co/spaces/PedAI/Adapt-Diffuse) | Text, Slider, Dropdown | Image | [![demo status](https://img.shields.io/website-up-down-green-red/https://hf.space/gradioiframe/PedAI/Adapt-Diffuse/+.svg?label=demo%20status)](https://huggingface.co/spaces/PedAI/Adapt-Diffuse)
 
 
 
